@@ -1,0 +1,34 @@
+#main{
+    height:1000px;
+    width:700px;
+    border: 10px solid gray;  
+}
+#head1{
+    background-color:navajowhite;
+    height:100px;
+    width: 700px;
+}
+#content1{
+    background-color:cornflowerblue;
+    height:700px;
+    width:700px;
+    float: left; 
+}
+#content2{
+    background-color:gold;
+    height:700px;
+    width:200px;
+    float: right; 
+}
+#foot1{
+    background-color:palevioletred;
+    height:200px;
+    width:350px;
+    float: left; 
+}
+#foot2{
+    background-color:crimson;
+    height:200px;
+    width:350px;
+    float: right; 
+}
